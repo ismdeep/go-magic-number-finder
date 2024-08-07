@@ -1,0 +1,1 @@
+# go-magic-number-finder
